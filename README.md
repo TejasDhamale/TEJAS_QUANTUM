@@ -41,8 +41,8 @@ To run this project locally for viewing purposes:
 
 1.  **Clone the repository** (Note: See usage policy below)
     ```bash
-    git clone https://github.com/AryanDhamale/MY_WEBSITE.git
-    cd MY_WEBSITE_GITHUB
+    git clone https://github.com/TejasDhamale/TEJAS_QUANTUM.git
+    cd TEJAS_QUANTUM
     ```
 
 2.  **Install dependencies**
@@ -80,11 +80,11 @@ All rights reserved.
 
 Feel free to reach out if you have any questions or want to collaborate on a project!
 
-*   **Website**: [Live Site Link](https://tejasdhamale.netlify.app/)
-*   **GitHub**: [@AryanDhamale](https://github.com/AryanDhamale)
+*   **Website**: [Live Site Link](https://tejasdhamale.vercel.app/)
+*   **GitHub**: [@TejasDhamale](https://github.com/TejasDhamale)
 
 ---
 
 <div align="center">
-  <sub>Built with ❤️ and ☕ by Aryan Dhamale</sub>
+  <sub>Built with ❤️ and ☕ by Tejas Dhamale</sub>
 </div>
