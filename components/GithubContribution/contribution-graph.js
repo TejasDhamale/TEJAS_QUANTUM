@@ -13,7 +13,7 @@ function ContributionGraph() {
 
     return (
         <div className="text-white/80 w-[calc(100%-2px)] no-scrollbar">
-            <GitHubCalendar username="AryanDhamale" responsive={true} theme={customTheme} />
+            <GitHubCalendar username="TejasDhamale" responsive={true} theme={customTheme} />
         </div>
     );
 }
